@@ -1,10 +1,3 @@
-# ./bin/arangod -c etc/relative/arangod.conf --javascript.dev-app-path ~/projects/my_app /tmp/database
-#
-# ./bin/arangosh -c etc/relative/arangosh.conf
-# aal = require("org/arangodb/aal");
-# aal.installDevApp("wiese", "/")
-
-
 Foxx = require("org/arangodb/foxx")
 
 app = new Foxx.Application()
