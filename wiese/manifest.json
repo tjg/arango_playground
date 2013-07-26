@@ -1,0 +1,7 @@
+{
+  "name": "wiese",
+  "version": "0.0.1",
+  "apps": {
+    "/my": "app.js"
+  }
+}
